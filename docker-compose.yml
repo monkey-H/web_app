@@ -1,5 +1,5 @@
 web:
-  image: docker.iwanna.xyz:5000/hmonkey/webapp:v1
+  image: docker.iwanna.xyz:5000/hmonkey/webapp:v2
   command: python app.py
   ports:
     - 5000
