@@ -1,4 +1,4 @@
 web:
-  image: docker.iwanna.xyz:5000/hmonkey/webapp:v2
+  build: ./
   ports:
     - 5000
