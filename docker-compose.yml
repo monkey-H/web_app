@@ -1,4 +1,4 @@
 web:
-  build: ./
+  image: docker.iwnana.xyz:5000/hmonkey/web_app:v1
   ports:
     - 5000
